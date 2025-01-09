@@ -1,0 +1,137 @@
+[
+    {
+        "id": "COREA72406D656D64E0ABAF9D0E525292D78",
+        "title": "Don\u2019t Snooze on Eloqua: Discover Five Powerful Features Beyond Email Marketing",
+        "web_url": "https://blogs.oracle.com/cx/post/dont-snooze-on-eloqua-discover-five-powerful-features-beyond-email-marketing",
+        "publish_date": "2024-11-06T21:37:00.000Z",
+        "fields": {
+            "Description": "Discover how to unlock Eloqua\u2019s full potential beyond basic email marketing. From dynamic forms to seamless CRM integration, event management, and personalized lead scoring, explore top features that elevate your marketing strategy."
+        }
+    },
+    {
+        "id": "COREA7793E79C54E4DA38AC4FA9CF5D4A6CA",
+        "title": "Oracle B2C Service Built-in Thread Translation",
+        "web_url": "https://blogs.oracle.com/cx/post/thread-translation",
+        "publish_date": "2024-11-05T06:47:00.000Z",
+        "fields": {
+            "Description": "This is an overview of the Thread Translation feature which is now available in Oracle B2C Service."
+        }
+    },
+    {
+        "id": "CORED088EA95C9E145DE9270F775F4D9933E",
+        "title": "The B2B Marketers\u2019 Dilemma in the Echoverse: New Rules for Marketing and Sales Alignment",
+        "web_url": "https://blogs.oracle.com/cx/post/the-b2b-marketers-dilemma-in-the-echoverse-new-rules-for-marketing-and-sales-alignment",
+        "publish_date": "2024-10-28T17:52:00.000Z",
+        "fields": {
+            "Description": "Learn why B2B marketing and sales teams need to unify their efforts away from traditional lead generation to opportunity-driven engagement, and how flexibility and real-time responsiveness will become the pillars of successful marketing strategies. To achieve this, first-party customer data will be critical, along with distributed marketing that allows for scalable, precise engagement with prospects and customers alike."
+        }
+    },
+    {
+        "id": "COREF2B77DF4DE2742EB9E939EFAB2178022",
+        "title": "How to Set a Default Channel Type in Fusion Service Center",
+        "web_url": "https://blogs.oracle.com/cx/post/how-to-set-a-default-channel-type-in-fusion-service-center",
+        "publish_date": "2024-10-10T17:08:00.000Z",
+        "fields": {
+            "Description": "This guide provides step-by-step instructions for setting a default Channel Type during Service Request (SR) creation in Fusion Service Center, using Visual Builder Studio and UI Events Framework (UEF)."
+        }
+    },
+    {
+        "id": "CORE66A11CAC4DDF4EF6AAC2B162CB952FA3",
+        "title": "How to Boost Your 2024 Holiday Season Campaigns with AI, Mobile, and Insights",
+        "web_url": "https://blogs.oracle.com/cx/post/boost-2024-holiday-campaigns-responsys-ai-features",
+        "publish_date": "2024-10-08T17:51:00.000Z",
+        "fields": {
+            "Description": "With a wealth of new tools at their disposal, marketers are well-positioned to make this holiday season their most successful yet. From predictive models to mobile enhancements and AI-driven content creation, learn how Oracle\u2019s latest offerings are designed to help you work smarter, not harder."
+        }
+    },
+    {
+        "id": "CORE8A9B293FE7184A808F3F421B3EACB574",
+        "title": "B2C Service Chat: How to Configure a Third-Party Language Translation Service Using Extensibility",
+        "web_url": "https://blogs.oracle.com/cx/post/b2c-service-chat-how-to-configure-a-thirdparty-language-translation-service-using-extensibility",
+        "publish_date": "2024-10-04T18:30:00.000Z",
+        "fields": {
+            "Description": "This blog will describe how to configure chat translation in B2C service with any language translation provider using extensibility"
+        }
+    },
+    {
+        "id": "CORE8F2B80C7C1014A46889171FA9EED8566",
+        "title": "Unlocking revenue potential: Oracle named an Exemplary Leader in the Ventana Research Buyers Guide 2024 for Subscription Management",
+        "web_url": "https://blogs.oracle.com/cx/post/unlocking-revenue-potential-oracle-named-an-exemplary-leader-in-the-ventana-research-buyers-guide-2024-for-subscription-management",
+        "publish_date": "2024-09-27T18:56:00.000Z",
+        "fields": {
+            "Description": "Oracle has been recognized as an Exemplary Leader by Ventana Research in their 2024 Buyers Guide: Subscription Management for the second consecutive year. Read on to learn why Oracle ranked second overall in both Product Experience and Customer Experience, thanks to its unified suite of applications and commitment to order-to-revenue solutions. "
+        }
+    },
+    {
+        "id": "CORE82A7893E1BFA41D694489BC2675F0242",
+        "title": "Oracle named a Leader in the 2024 Gartner\u00ae Magic Quadrant\u2122 for B2B Marketing Automation Platforms",
+        "web_url": "https://blogs.oracle.com/cx/post/oracle-named-a-leader-in-the-2024-gartner-magic-quadrant-for-b2b-marketing-automation-platforms",
+        "publish_date": "2024-09-26T15:20:00.000Z",
+        "fields": {
+            "Description": "Oracle has been recognized as a Leader in the 2024 Gartner\u00ae Magic Quadrant\u2122 for B2B Marketing Automation Platforms for the 12th consecutive year. Discover how Oracle Eloqua empowers businesses with AI-driven marketing orchestration, cross-channel campaigns, and deep customer insights to drive revenue growth."
+        }
+    },
+    {
+        "id": "CORE869C3ABFE4D447CDBC7489F3B7692C2E",
+        "title": "Oracle ranks second in all Use Cases in the 2024 Gartner\u00ae Critical Capabilities for Sales Force Automation Platforms",
+        "web_url": "https://blogs.oracle.com/cx/post/oracle-ranks-second-in-all-use-cases-in-the-2024-gartner-critical-capabilities-for-sales-force-automation-platforms",
+        "publish_date": "2024-09-25T18:41:00.000Z",
+        "fields": {
+            "Description": "Oracle secures the #2 spot across all use cases in the 2024 Gartner\u00ae Critical Capabilities for Sales Force Automation, with AI-driven innovations and an integrated sales solution designed to drive growth and efficiency. Learn more about how Oracle's SFA suite streamlines sales processes and supports enterprise transformation."
+        }
+    },
+    {
+        "id": "COREAD4B054C11704D4B8E77CE86A5489A3C",
+        "title": "24D Fusion Service Extensibility Features Highlight | Be release ready",
+        "web_url": "https://blogs.oracle.com/cx/post/24d-fusion-service-extensibility-features-highlight-be-release-ready",
+        "publish_date": "2024-09-25T17:02:00.000Z",
+        "fields": {
+            "Description": "24D Fusion Service Extensibility Features Highlight "
+        }
+    },
+    {
+        "id": "CORE37B668D16E7541089EBA01C6B7EA562D",
+        "title": "Oracle Fusion Service 24C Extensibility Features Highlight | Be Release Ready",
+        "web_url": "https://blogs.oracle.com/cx/post/oracle-fusion-service-24c-extensibility-features-highlight-be-release-ready",
+        "publish_date": "2024-09-12T19:05:00.000Z",
+        "fields": {
+            "Description": "Oracle Fusion Service 24C Extensibility Features Highlight "
+        }
+    },
+    {
+        "id": "CORED76407584D4041949C809A5329D210CD",
+        "title": "Oracle B2C Service 24C Highlights: Continuously bringing increments of happiness for our customers. ",
+        "web_url": "https://blogs.oracle.com/cx/post/oracle-b2c-service-release-highlights-24c",
+        "publish_date": "2024-09-08T09:26:00.000Z",
+        "fields": {
+            "Description": "The blog highlights the Oracle B2C Service 24C enhancements, which have enough stock to bring happiness to every persona in a service center, Admin, Agent, Customer, & Developer."
+        }
+    },
+    {
+        "id": "COREF027D48CD869467B885BCD4736BAE215",
+        "title": "The Future of Sales at Oracle CloudWorld 2024: Know and grow your customers in the age of AI",
+        "web_url": "https://blogs.oracle.com/cx/post/the-future-of-sales-at-oracle-cloudworld-2024-know-and-grow-your-customers-in-the-age-of-ai",
+        "publish_date": "2024-09-04T14:50:00.000Z",
+        "fields": {
+            "Description": "Discover how Oracle Sales is revolutionizing enterprise growth at CloudWorld 2024 in Las Vegas. Explore AI-driven CRM, revenue transformation, and digital buying experiences. Join us September 9-12 to learn more and engage with customer success stories."
+        }
+    },
+    {
+        "id": "CORE00612CD0DB6C4250B17B290D1CD61C3F",
+        "title": "The Future of Service at CloudWorld 2024: Use Automation and AI to Improve the Customer Experience",
+        "web_url": "https://blogs.oracle.com/cx/post/the-future-of-service-at-cloudworld-2024-use-automation-and-ai-to-improve-the-customer-experience",
+        "publish_date": "2024-09-03T16:11:00.000Z",
+        "fields": {
+            "Description": "Discover how automation and AI are transforming customer service and boosting efficiency in service organizations. Join us at Oracle CloudWorld to explore the future of service delivery with AI-powered solutions."
+        }
+    },
+    {
+        "id": "CORE432DC5972DAE4C99A265E09C2B1B0885",
+        "title": "24B Fusion Service Center Extensibility: Enhancing Customization with Page Input to Layout Context and Service Home Page Features",
+        "web_url": "https://blogs.oracle.com/cx/post/24b-fusion-service-center-extensibility-enhancing-customization-with-page-input-to-layout-context-and-service-home-page-features",
+        "publish_date": "2024-08-30T14:18:00.000Z",
+        "fields": {
+            "Description": "24B Fusion Service Center Extensibility Release Highlight"
+        }
+    }
+]
